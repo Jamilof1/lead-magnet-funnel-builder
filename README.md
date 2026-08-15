@@ -2,6 +2,11 @@
 
 Turn an offer and audience into a seven-stage acquisition flow covering landing copy, qualification, confirmation, nurture, tracking, and handoff.
 
+[![Verify](https://github.com/Jamilof1/lead-magnet-funnel-builder/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jamilof1/lead-magnet-funnel-builder/actions/workflows/ci.yml)
+[View in Jamil Darwish's portfolio](https://jamildarwish.com/#marketing-systems-lab) · [MIT License](./LICENSE)
+
+![Lead Magnet Funnel Builder interface](./public/preview.png)
+
 ## What it proves
 
 - Structured funnel and nurture-sequence generation
